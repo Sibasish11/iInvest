@@ -1,8 +1,10 @@
-# iInvest
+# iInvest 🚀
 
-AI Powered Fintech Dashboard for Smarter Investing
+<h2>🚀 Landing Page:</h2>
+<p align="center">
+  <img src="assets/Screenshot 2026-01-05 214952.png" width="600">
+</p>
 
-![iInvest Banner](https://via.placeholder.com/1200x300/0a0a1f/ffffff?text=iInvest+-+AI+Powered+Market+Insights)  
 *Real-time market pulse, sentiment analysis, event alerts & sector trends*
 
 **iInvest** is a modern, AI driven fintech SaaS platform that helps investors stay ahead of the market with real time insights, sentiment analysis, upcoming economic events, and sector performance tracking all in one beautiful dashboard.
@@ -26,22 +28,24 @@ Experience it live: [https://iinvestmarket.netlify.app](https://iinvestmarket.ne
 ## Screenshots
 
 ### Dashboard - Market Pulse (Real-time View)
-![Market Pulse Dashboard](https://via.placeholder.com/1200x800/111122/ffffff?text=Market+Pulse+Dashboard+-+Optimistic+Sentiment)  
+<h3>🚀 Landing Page:</h3>
+<p align="center">
+  <img src="assets/Screenshot 2026-01-05 214952.png" width="600">
+</p>
 *Shows current market sentiment, next FOMC event, and leading sectors like Energy*
 
 ## Tech Stack
 
 - **Frontend**: React + TypeScript + Vite  
 - **AI Integration**: Google Gemini API  
-- **Styling**: Tailwind CSS (or your preferred framework)  
-- **Deployment**: Netlify  
+- **Styling**: Tailwind CSS    
 - **Date Format**: Works with current date (e.g., January 05, 2026)
 
 ## Quick Start (Local Development)
 
 ### Prerequisites
 - Node.js v18+
-- Google Gemini API key (get it free from [Google AI Studio](https://aistudio.google.com/))
+- Google Gemini API key
 
 ### Steps
 1. Clone the repo:
@@ -55,9 +59,6 @@ Experience it live: [https://iinvestmarket.netlify.app](https://iinvestmarket.ne
 Create .env.local and add your API key:envVITE_GEMINI_API_KEY=your_gemini_api_key_here
 Start the development server:Bashnpm run dev
 Open http://localhost:5173 in your browser
-
-
-
 
 
 Sibasish11

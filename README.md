@@ -5,7 +5,7 @@
   <img src="assets/Screenshot 2026-01-05 214952.png" width="600">
 </p>
 
-*Real-time market pulse, sentiment analysis, event alerts & sector trends*
+*Real time market pulse, sentiment analysis, event alerts & sector trends*
 
 **iInvest** is a modern, AI driven fintech SaaS platform that helps investors stay ahead of the market with real time insights, sentiment analysis, upcoming economic events, and sector performance tracking all in one beautiful dashboard.
 
@@ -45,7 +45,7 @@ Experience it live: [https://iinvestmarket.netlify.app](https://iinvestmarket.ne
 
 ### Prerequisites
 - Node.js v18+
-- Google Gemini API key
+- LLM's API key
 
 ### Steps
 1. Clone the repo:

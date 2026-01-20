@@ -37,7 +37,7 @@ Experience it live: [https://iinvestmarket.netlify.app](https://iinvestmarket.ne
 ## Tech Stack
 
 - **Frontend**: React + TypeScript + Vite  
-- **AI Integration**: Google Gemini API  
+- **AI Integration**: Grok API key (prefferably)  
 - **Styling**: Tailwind CSS    
 - **Date Format**: Works with current date (e.g., January 05, 2026)
 
@@ -56,8 +56,8 @@ Experience it live: [https://iinvestmarket.netlify.app](https://iinvestmarket.ne
 
 ### Install dependencies:Bashnpm install
 
-Create .env.local and add your API key:envVITE_GEMINI_API_KEY=your_gemini_api_key_here
-Start the development server:Bashnpm run dev
+Create .env.local and add your API key.
+Start the development server.
 Open http://localhost:5173 in your browser
 
 
